@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a Computer Science student at the University of Lincoln and the University of Latvia. I'm passionate about creating web applications and software development. In my free time, I enjoy playing video games and exploring new technologies to improve my coding skills.
 
 <!--
 **Scorpiar1a/Scorpiar1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
